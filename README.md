@@ -90,17 +90,35 @@ This dual-mode approach proves that ZURI AI can be deployed either as a standalo
 
 ### 📸 Visual Showcase
 
-**1. Fullscreen Conversational Interface**
-![ZURI AI Fullscreen Chat](./docs/images/fullscreen-chat.png)
-*Clean, distraction-free interface with UPB's brand identity (Gold #C9A027 / Navy #0d1b2e) and integrated voice note controls.*
+**1. Fullscreen Conversational Interface & Voice Interaction**
+<div align="center">
+  <img src="./docs/images/chatbot-action.gif" alt="ZURI AI Fullscreen Chat" width="100%">
+</div>
+<br>
 
 **2. Institutional Portal Integration (Pop-up Widget)**
-![ZURI AI Pop-up Widget](./docs/images/popup-widget.png)
-*The `FloatingChatWidget.vue` injected into a simulated UPB landing page, demonstrating seamless plug-and-play integration.*
- 
-**3. Backend Infrastructure (CPU-Only)**
-![ZURI AI Docker Infrastructure](./docs/images/backend-terminal.png)
-*Docker Compose running the entire RAG pipeline and TEI models exclusively on CPU architecture.*
+<div align="center">
+  <img src="./docs/images/pop-up-action.gif" alt="ZURI AI Pop-up Widget" width="100%">
+</div>
+<br>
+
+**3. Advanced RAG Capabilities (Knowledge Extraction & Citation)**
+<div align="center">
+  <img src="./docs/images/RAG-in-action.png" alt="RAG Retrieval and Document Sourcing" width="100%">
+</div>
+<br>
+
+**4. Secure Authentication Portal**
+<div align="center">
+  <img src="./docs/images/login-page.jpeg" alt="ZURI AI Secure Login Page" width="100%">
+</div>
+<br>
+
+**5. Backend Infrastructure (CPU-Only Docker Stack)**
+<div align="center">
+  <img src="./docs/images/backend-terminal.png" alt="ZURI AI Docker Infrastructure" width="100%">
+</div>
+<br>
 
 ### Code Quality
  
@@ -384,15 +402,17 @@ The frontend `package.json` already uses Vue 3 (`^3.2.0`), but component source 
  
 ---
 
-## 👨‍💻 Author & Contact
+## 👨‍💻 Authors & Contact
 
-**Uziel Fassi** *Computer Science Undergraduate & Full-Stack / AI Engineer*
-
-Are you interested in deploying a custom AI solution for your institution, or looking to discuss software architecture? Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uziel-fassi-08840a287/) 
+**Uziel Fassi** *Computer Science Undergraduate & Full-Stack / AI Engineer* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uziel-fassi-08840a287/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=framer&logoColor=white)](https://myportfoliouzielf.framer.website)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uziel-Fassi)
+
+**Peter Terán** *Computer Science Undergraduate & Full-Stack / AI Engineer* [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peterteranb)
+
+---
+
+Are you interested in deploying a custom AI solution for your institution, or looking to discuss software architecture? Let's connect!
  
 ## License
  
