@@ -404,11 +404,13 @@ The frontend `package.json` already uses Vue 3 (`^3.2.0`), but component source 
 
 ## 👨‍💻 Authors & Contact
 
-**Uziel Fassi** *Computer Science Undergraduate & Full-Stack / AI Engineer*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uziel-fassi-08840a287/) 
+**Uziel Fassi** *Computer Science Undergraduate & Full-Stack / AI Engineer*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uziel-fassi-08840a287/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=framer&logoColor=white)](https://myportfoliouzielf.framer.website)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uziel-Fassi)
 
-**Peter Terán** *Computer Science Undergraduate & Full-Stack / AI Engineer*   [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peterteranb)
+**Peter Terán** *Computer Science Undergraduate & Full-Stack / AI Engineer*
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peterteranb)
 
 ---
 
